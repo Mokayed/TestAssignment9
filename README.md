@@ -6,4 +6,4 @@ In jMeter we are also sending a checker for if the extra parameter form the exce
 
 Unfortunately the response error has to do with it not being a json object, which is something we have tried to fix alot by playing with gson</p>
 
-<p>So he Assignment is not done yet, ill informe you when it get done, so please tell me who you are so i know who i should speak with when the assgment is ready to a review</p>
+<p>So the Assignment is not done yet, ill informe you when it get done, so please tell me who you are so i know who i should speak with when the assgment is ready to a review</p>
