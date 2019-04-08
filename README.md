@@ -1,12 +1,14 @@
 # TestAssignment9
 
-What we have done here is we have made a servlet page, that has the parameters of:
+We had made a servlet page with login, that has the parameters of:
 user,
 password.
 
-In jMeter we are also sending a checker for if the extra parameter form the excel file contains true or false.
+<p>
+In jMeter we are sending a peremeter with a user and a password to our server and wait on a repond from server, if the password or user does not exists in this <a href="https://github.com/Hallur20/TestAssignment9/blob/master/login.csv">file</a> so we get a empty respond back, if the password and user exists we will get a true or false responds back.
+</p>
 
-to spare you the problem of trying to make the project work, we have put the project online at:
+To spare you the problem and time of trying get or make a server, we made a project online at:
 
 http://hallur.dk/TestAssignment9/
 
